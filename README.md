@@ -11,7 +11,7 @@ How to use :
 1. Install python ( if you don't have )
 2. Run install.bat to download all package python
 3. Run .exe file to build
-4. Get your webhook link ![image](https://user-images.githubusercontent.com/103272479/162679713-eb45ccc0-6f2c-4817-922b-a2105d91d655.png)
+4. Get your webhook link 
 5. You can also add icons to your exe file
 Click on file > add icon
 Then choose your icon file. It should be an .ico file
