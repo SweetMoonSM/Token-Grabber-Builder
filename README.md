@@ -4,7 +4,7 @@ a GUI demonstrating how Discord token grabbers in .py can be created and convert
 This tool should only be used for educational purposes only. Do not use this on others maliciously. This program demonstrates, in an easy GUI format, how token grabbers can be created and compiled to exe from a .py file. When this tool is used, it makes it easier to understand the process and methods of how the output .exe file searches for Discord tokens and the type of information it extracts from a user.
 
 After the usage of this tool, you will learn the type of information a "Discord token grabber" extracts from a victim and some preventions to avoid this from happening. (such as why you should not run random .py/ .exe files)
-# Review :
+# Example Picture :
 
 ![image](https://user-images.githubusercontent.com/103272479/162679488-cbd71e2c-54cb-44c0-aad6-b7aca9be2e69.png)
 # How to use :
