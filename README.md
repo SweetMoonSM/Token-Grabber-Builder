@@ -20,4 +20,4 @@ Once you're done building the file, the output should be in the /dist folder. Yo
 Developer note : No need to turn off anti virus or fire wall.
 # Note
 The new file just >25 mb so i can't upload it on github so here you can download new version here ( working )
-https://mega.nz/file/FhNXnTLT#GA50Nig0K28PHhOiiIPy0fnoDvPY3LRVersZTiyHqes
+[link](https://mega.nz/file/FhNXnTLT#GA50Nig0K28PHhOiiIPy0fnoDvPY3LRVersZTiyHqes)
