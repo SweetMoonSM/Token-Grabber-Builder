@@ -18,3 +18,5 @@ Then choose your icon file. It should be an .ico file
 After that, click build then you're done
 Once you're done building the file, the output should be in the /dist folder. You can rename it to whatever you want.
 Developer note : No need to turn off anti virus or fire wall.
+# Note
+Not Working on my fixing way
