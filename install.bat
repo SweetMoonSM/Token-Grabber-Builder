@@ -1,9 +1,3 @@
-@echo off
-
-pip install pyinstaller
-pip install pillow
-pip install tk
-pip install requests
-
-pause
-exit
+python -m pip install -r install.txt
+cls
+echo python rage.py >> "start.bat"
