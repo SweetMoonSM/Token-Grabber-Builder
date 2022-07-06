@@ -1,2 +1,1 @@
-pip install -r install.txt
-pause
+python -m pip install -r install.txt
